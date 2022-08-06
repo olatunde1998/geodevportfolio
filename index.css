@@ -729,9 +729,9 @@ li{
         border-bottom: 5px solid rgb(211, 214, 185);
         margin-bottom: 40px;
         color: white;
-        margin-right: auto;
-        margin-left: auto;
-        width: 1440px;
+       /* margin-right: auto;
+        margin-left: auto;*/
+        width: 1520px;
            
            
            
@@ -1062,7 +1062,12 @@ li{
         justify-content:center;
     }
  
+#footer{
+    
+    width: 1520px;
+    background-color: #539af7;
 
+}
 
 
 
